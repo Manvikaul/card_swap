@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/card swap.unity
+    guid: 5bd79139b1bfcb54f8a3c57aefd21299
   m_configObjects: {}
